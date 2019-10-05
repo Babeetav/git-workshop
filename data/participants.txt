@@ -6,3 +6,4 @@ Bob Test
 Hayden Westfield-Bell
 Jerome Illgner
 Derek Todd
+Sean Paterson
