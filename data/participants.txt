@@ -3,3 +3,4 @@
 Alice Demo
 Bob Test
 Derek Todd
+Sean Paterson
